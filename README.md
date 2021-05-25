@@ -12,7 +12,9 @@ If you need any help then give me a knock. Thank you!
 <p align="center">
   <kbd>
 <img src="map.png"> </img>
+  <br>
   <img src="map2.png"> </img>
+  <br>
   <img src="map3.png"> </img>
   </kbd>
 </p>
