@@ -5,3 +5,14 @@ GeoDjango intends to be a world-class geographic Web framework. Its goal is to m
 The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays. I tried various tiles here. 
 
 If you need any help then give me a knock. Thank you!
+
+
+# Demo Picture
+
+<p align="center">
+  <kbd>
+<img src="map.png"> </img>
+  <img src="map2.png"> </img>
+  <img src="map3.png"> </img>
+  </kbd>
+</p>
